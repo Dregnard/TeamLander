@@ -5,7 +5,8 @@ Lunar-Lander
 
 La version 0.0 del videojuego hace referencia a todo el codigo desde que partimos para el desarrollo de la aplicacion.
 Este código consta de varios de archivos:
-  Documentos HTML:
+ 
+ Documentos HTML:
   
      index.html : es la página principal del juego y contiene todos los objetos que lo conforman.
     
@@ -14,7 +15,9 @@ Este código consta de varios de archivos:
  	    d.css: es la hoja de estilo importada al archivo index.html siempre y cuando el ancho de la pantalla del ordenador supere los           961pxpx.
       
       m.css: es la hoja de estilo importada al archivo index.html siempre y cuando el ancho de la pantalla del ordenador esté por debajo de los 960px.
-   Documento javascript
+   Documento javascript:
+      
+      La funcion del archivo de javascript dar la animacion correspondiente a la nave en funcion de la velocidad y la altura
 
 
 
@@ -22,8 +25,10 @@ Este código consta de varios de archivos:
 
 Tareas a desarrollar:
 
-Buscar imágenes: Luna, nave, tierra fija en el fondo, fondo estrellado. Imagenes optimizadas.
-Crear menú: En el móvil, 100% de la pantalla, en PC, menú horizontal arriba de la pantalla.
+
+*Incorporar las diferentes imágenes al proyecto: Naves, Luna, fondo, etc...
+*Dificultad del juego: Diferentes modos de juego.
+*Menú: Diferentes menus según la pantalla
 Cambiar imagen cuando se enciende el motor: Hecho.
 Vaciar correctamente el tanque al pulsar: Hecho, además de incorporar distintos tamaños de tanques en función de la dificultad.
 Finalizar juego: Al llegar la nave abajo, el juego detecta la velocidad y en función de la dificultad elegida explotará o no. Muestra un mensaje de victoria o derrota y proporciona la opción de volver a jugar.
