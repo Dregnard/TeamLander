@@ -26,15 +26,16 @@ Este código consta de varios de archivos:
 Tareas a desarrollar:
 
 
-* Incorporar las diferentes imágenes al proyecto: Naves, Luna, fondo, etc...
+* Incorporar las diferentes imágenes al proyecto: Naves, Luna, fondo y las diferentes herramientas de menu.
 * Dificultad del juego: Diferentes modos de juego.
-* Menú: Diferentes menus según la pantalla
-* Instrucciones 
+* Menú: Diferentes menus según las pantallas.
+* Instrucciones del juego
 
 
-Aportaciones al HTML:
+## Aportaciones al HTML:
+* UTF-8
 Head
-UTF-8
+
 Descripción: Descripción incluida en el meta.
 Google fonts: Incorporación de Fuentes para poderlos utilizar en el CSS.
 Body
