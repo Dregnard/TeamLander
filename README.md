@@ -2,13 +2,17 @@
 
 Lunar-Lander
 ##Version 0.0
+
 La version 0.0 del videojuego hace referencia a todo el codigo desde que partimos para el desarrollo de la aplicacion.
 Este código consta de varios de archivos:
   Documentos HTML:
+  
      index.html : es la página principal del juego y contiene todos los objetos que lo conforman.
     
   Documentos CSS:
+  
  	    d.css: es la hoja de estilo importada al archivo index.html siempre y cuando el ancho de la pantalla del ordenador supere los           961pxpx.
+      
       m.css: es la hoja de estilo importada al archivo index.html siempre y cuando el ancho de la pantalla del ordenador esté por debajo de los 960px.
    Documento javascript
 
