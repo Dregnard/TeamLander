@@ -1,7 +1,7 @@
 # TeamLander
 
 Lunar-Lander
-##Version 0.0
+## Version 0.0
 
 La version 0.0 del videojuego hace referencia a todo el codigo desde que partimos para el desarrollo de la aplicacion.
 Este código consta de varios de archivos:
@@ -21,20 +21,16 @@ Este código consta de varios de archivos:
 
 
 
-##Versión 1.0
+## Versión 1.0
 
 Tareas a desarrollar:
 
 
-*Incorporar las diferentes imágenes al proyecto: Naves, Luna, fondo, etc...
-*Dificultad del juego: Diferentes modos de juego.
-*Menú: Diferentes menus según la pantalla
-Cambiar imagen cuando se enciende el motor: Hecho.
-Vaciar correctamente el tanque al pulsar: Hecho, además de incorporar distintos tamaños de tanques en función de la dificultad.
-Finalizar juego: Al llegar la nave abajo, el juego detecta la velocidad y en función de la dificultad elegida explotará o no. Muestra un mensaje de victoria o derrota y proporciona la opción de volver a jugar.
-Modos de dificultad: Fácil (100 litros, velocidad umbral 5 m/s), Medio (75 litros, velocidad umbral 2.5 m/s), Difícil (50 litros, velocidad umbral 1 m/s)
-Instrucciones y about: Hecho.
-Además de lo anterior, se han añadido los siguientes elementos al proyecto.
+* Incorporar las diferentes imágenes al proyecto: Naves, Luna, fondo, etc...
+* Dificultad del juego: Diferentes modos de juego.
+* Menú: Diferentes menus según la pantalla
+* Instrucciones 
+
 
 Aportaciones al HTML:
 Head
