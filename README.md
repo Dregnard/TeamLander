@@ -22,7 +22,7 @@ Este código consta de varios de archivos:
 
 
 
-# Luna Lander Versión 1.0
+# Luna Lander Version 1.0
 
 Tareas a desarrollar:
 
@@ -55,11 +55,23 @@ Tareas a desarrollar:
 * Imagen Nave: La nave expulsará fuego de los motores cuando aceleremos y explotará si no aterrizamos adecuadamente.
 * Lugar Aterrizaje: superficie Luna.
 
-## Versión 2.0
+# Luna Lander Version 2.0
  Tareas a desarrollar:
 
 * Añadiremos un Login y un SignUp.
 * Crearemos una Base de Datos.
+
+## SignUp
+
+Registrar Usuario:
+ 
+ Se hace una peticion al Servelt "Register" y se envian los diferentes parametros:
+   * name : nombre real del usuario
+   * username: nombre con el que el usuario quiere que se le identifique en el juego.
+   * password : contraseña del usuario.
+  Si el registro es un exito el Servlet devuelve el mensaje " ".
+
+
 
 
 
