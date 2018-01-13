@@ -92,7 +92,7 @@ Registrar Usuario:
      * Tabla **configuration** : En esta tabla se guaradaran las diferentes configuraciones por usuario.
      * Tabla **score** : En esta tabla se guardarán la puntuacion de cada usuario.
   
-  ####Tabla user####
+  #### Tabla user ####
   La tabla user 
 
 
