@@ -93,7 +93,8 @@ Registrar Usuario:
      * Tabla **score** : En esta tabla se guardarán la puntuacion de cada usuario.
   
   #### Tabla user ####
-  La tabla user 
+  La tabla user consta de los siguientes campos:
+     > que bola
 
 
 
