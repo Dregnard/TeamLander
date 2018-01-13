@@ -56,7 +56,7 @@ Tareas a desarrollar:
 * Lugar Aterrizaje: superficie Luna.
 
 # Luna Lander Version 2.0
- Tareas a desarrollar:
+ Tareas a desarrollar : 
 
 * Añadiremos un Login y un SignUp.
 * Crearemos una Base de Datos.
@@ -65,7 +65,7 @@ Tareas a desarrollar:
 
 Registrar Usuario:
  
- Se hace una peticion al Servelt "Register" y se envian los diferentes parametros:
+ Se hace una peticion al Servelt "Register" y se envian los diferentes parametros :
   
    * name : nombre real del usuario
    * username: nombre con el que el usuario quiere que se le identifique en el juego.
