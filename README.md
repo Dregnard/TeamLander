@@ -96,12 +96,12 @@ Registrar Usuario:
   La tabla user consta de los siguientes campos:
      
      
-| Nombre del Campo  |    Tipo     | Informacion  |
-| -------------     |:-----------:| ------------:|
-| id                |    int       | Primary Key, Not Null, AI |
-| nombre            | centered      |   $12 |
-| username          | are neat      |    $1 |
-| password          |
+| Nombre del Campo  |    Tipo     |Informacion  |
+|: ------------- :  |:-----------:|:------------:|
+| id                |    int(11)      | Primary Key, Not Null, AI |
+| nombre            |  varchar(10)    |         |
+| username          |  varchar(15)    |         |
+| password          | varchar)10)     |         |
 
 
 
