@@ -88,8 +88,8 @@ Registrar Usuario:
    
    La base de datos del videojuego se compone de tres tablas :
      
-     * Tabla **user** : En esta tabla se almacenará los datos de los usuarios registrados.
-     * Tabla 
+     * Tabla _user_ : En esta tabla se almacenará los datos de los usuarios registrados.
+     * Tabla _configuration_
   
   
 
