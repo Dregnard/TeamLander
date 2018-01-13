@@ -94,7 +94,14 @@ Registrar Usuario:
   
   #### Tabla user ####
   La tabla user consta de los siguientes campos:
-     > que bola
+     
+     
+| Nombre del Campo  |    Tipo     | Informacion  |
+| -------------     |:-----------:| ------------:|
+| id                |    int       | Primary Key, Not Null, AI |
+| nombre            | centered      |   $12 |
+| username          | are neat      |    $1 |
+| password          |
 
 
 
