@@ -1,9 +1,7 @@
 # TeamLander
-
-## Lunar-Lander
-
 Integrantes: Fabian Carreras, Joan Socias, Andres Rivero.
-## Version 0.0
+
+# Luna Lander Version 0.0
 enlace: https://github.com/urbinapro/lunar-landing-javascript
 
 La version 0.0 del videojuego hace referencia a todo el codigo desde que partimos para el desarrollo de la aplicacion.
@@ -24,7 +22,7 @@ Este código consta de varios de archivos:
 
 
 
-## Versión 1.0
+# Luna Lander Versión 1.0
 
 Tareas a desarrollar:
 
@@ -34,7 +32,7 @@ Tareas a desarrollar:
 * Instrucciones del juego
 
 
-## Aportaciones al HTML:
+### Aportaciones al HTML:
 * UTF-8
 * Head: descripción incluida en el meta. En la instancia al CSS,  
 * Body
@@ -42,11 +40,11 @@ Tareas a desarrollar:
 * Menu opciones: Muestra las opciones y permite cambiarlas.
 * Menu about: Muestra el About
 
-## Aportaciones al CSS
+### Aportaciones al CSS
 * Discriminación entre PC y móvil según el tamaño de la pantalla.
 * Estilos menús (Pausa, Instrucciones, Opciones y About): En el móvil, ocupan un 100% de la pantalla, en el ordenador aparecen centrados en el centro.
 
-## Aportaciones al JS:
+### Aportaciones al JS:
 * Version Móvil: La nave se mueve al poner el dedo en la pantalla (ontouch).
 * Version PC: La nave se mueve SOLO al pulsar la barra espaciadora (no funciona con ninguna otra tecla).
 * Mostrar/Ocultar los divs de los elementos del menú (instrucciones, opciones, about...):
@@ -55,6 +53,14 @@ Tareas a desarrollar:
 * El Menu pausa el juego
 * Nivel dificultad: Fácil, Medio y Difícil.
 * Imagen Nave: La nave expulsará fuego de los motores cuando aceleremos y explotará si no aterrizamos adecuadamente.
-* Lugar Aterrizaje: La Luna.
+* Lugar Aterrizaje: superficie Luna.
+
+## Versión 2.0
+ Tareas a desarrollar:
+
+* Añadiremos un Login y un SignUp.
+* Crearemos una Base de Datos.
+
+
 
 
