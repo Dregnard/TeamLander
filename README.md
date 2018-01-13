@@ -1,6 +1,8 @@
 # TeamLander
 
-Lunar-Lander
+## Lunar-Lander
+
+Integrantes: Fabian Carreras, Joan Socias, Andres Rivero.
 ## Version 0.0
 enlace: https://github.com/urbinapro/lunar-landing-javascript
 
