@@ -86,7 +86,7 @@ Registrar Usuario:
     
    ## Base de Datos
    
-   La base de datos del videojuego se compone de tres tablas :
+   La base de datos del videojuego se compone de tres tablas relacionadas:
      
      * Tabla **user** : En esta tabla se almacenará los datos de los usuarios registrados.
      * Tabla **configuration** : En esta tabla se guaradaran las diferentes configuraciones por usuario.
@@ -130,5 +130,39 @@ Registrar Usuario:
 
 
 
+# Luna Lander Version 3.0
+
+  Tareas a desarrollar : 
+
+   * Configuracion
+   
+   En esta version desarrollaremos toda la etapa de configuracion del juego. Esta etapa está compuesta por principalmente por dos apatartados que son:
+   * Guardar configuracion del usuario.
+   * Cargar configuracion del usuario.
+  
+   
+   #### Guardar Configuracion ####
+   
+   Para guardar la configuracion del usuario emplearemos el servlet "guardarConfiguracion"
+   
+   mostrar los parametros y metodos con los que trabajamos
+   
+   #### Cargar Configuracion #### 
+   
+   Para cargar la configuracion del usuario emplearemos el servlet "cargarConfiguracion"
+   
+    mostrar los parametros y metodos con los que trabajamos
+   
+  
+   
+   # Luna Lander Version 4.0
+   
+   Score
+   
+   
+   # Luna Lander Version 5.0
+   
+   frontend
+   
 
 
