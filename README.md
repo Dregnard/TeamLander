@@ -113,7 +113,21 @@ Registrar Usuario:
 | user_id           |    int(11)  |  Not Null, reference user (id)  |
 | dif_id            |    int(11)  |  Not Null      |
 | nave_id           |    int(11)  |  Not Null      |
-| luna_id           |    int(11)  |  Not Null          |
+| luna_id           |    int(11)  |  Not Null      |
+
+#### Tabla score ####
+  La tabla score consta de los siguientes campos:
+     
+     
+| Nombre del Campo  |    Tipo     |Informacion  |
+| -------------     |:-----------:|:------------:|
+| id                |    int(11)  | Primary Key, Not Null, AI |
+| conf_id           |    int(11)  |  Not Null, reference configuration (id)  |
+| speed             |    float  |  Not Null      |
+| fuel              |    float  |  Not Null      |
+| inTime            |    time   |  Not Null      |
+| endTime           |    time   |  Not Null      |
+
 
 
 
