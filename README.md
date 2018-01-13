@@ -97,7 +97,7 @@ Registrar Usuario:
      
      
 | Nombre del Campo  |    Tipo     |Informacion  |
-| -------------   |:-----------:|------------:|
+| -------------   |:-----------:|:------------:|
 | id                |    int(11)      | Primary Key, Not Null, AI |
 | nombre            |  varchar(10)    |    s     |
 | username          |  varchar(15)    |    s     |
