@@ -34,11 +34,15 @@ Tareas a desarrollar:
 
 ## Aportaciones al HTML:
 * UTF-8
-* Head: descripción incluida en el meta. En la instancia al CSS, discriminación entre PC y móvil según el tamaño de la pantalla  
+* Head: descripción incluida en el meta. En la instancia al CSS,  
 * Body
 * Menu instrucciones: Muestra las instrucciones
 * Menu opciones: Muestra las opciones y permite cambiarlas.
 * Menu about: Muestra el About
+
+## Aportaciones al CSS
+* Discriminación entre PC y móvil según el tamaño de la pantalla.
+* Estilos menús (Pausa, Instrucciones, Opciones y About): En el móvil, ocupan un 100% de la pantalla, en el ordenador aparecen centrados en el centro.
 
 ## Aportaciones al JS:
 * Version Móvil: La nave se mueve al poner el dedo en la pantalla (ontouch).
