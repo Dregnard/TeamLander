@@ -81,17 +81,19 @@ Registrar Usuario:
   
   Se hace una peticion al Servelt "Login" y comprobamos los parametros "Username" y "Password" :
    
-    * Username: nombre del usuario,
-    * Password: contraseña con el que el usuario se ha registrado
+    * Username: nombre del usuario.
+    * Password: contraseña con el que el usuario se ha registrado.
     
    ## Base de Datos
    
-   La base de **datos** del videojuego se compone de tres tablas :
+   La base de datos del videojuego se compone de tres tablas :
      
-     * Tabla __user__ : En esta tabla se almacenará los datos de los usuarios registrados.
-     * Tabla __configuration__
+     * Tabla **user** : En esta tabla se almacenará los datos de los usuarios registrados.
+     * Tabla **configuration** : En esta tabla se guaradaran las diferentes configuraciones por usuario.
+     * Tabla **score** : En esta tabla se guardarán la puntuacion de cada usuario.
   
-  
+  ####Tabla user####
+  La tabla user 
 
 
 
