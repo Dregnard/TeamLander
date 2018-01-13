@@ -66,6 +66,7 @@ Tareas a desarrollar:
 Registrar Usuario:
  
  Se hace una peticion al Servelt "Register" y se envian los diferentes parametros:
+  
    * name : nombre real del usuario
    * username: nombre con el que el usuario quiere que se le identifique en el juego.
    * password : contraseña del usuario.
@@ -79,12 +80,14 @@ Registrar Usuario:
   Iniciar Session: El usuario ha de estar previamente registrado para poder hacer Login. 
   
   Se hace una peticion al Servelt "Login" y comprobamos los parametros "Username" y "Password" :
+   
     * Username: nombre del usuario,
     * Password: contraseña con el que el usuario se ha registrado
     
    ## Base de Datos
    
    La base de datos del videojuego se compone de tres tablas :
+     
      * Tabla *User*: En esta tabla se almacenará los datos de los usuarios registrados.
      * Tabla 
   
