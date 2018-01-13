@@ -103,7 +103,17 @@ Registrar Usuario:
 | username          |  varchar(15)    |        |
 | password          | varchar(10)     |        |
 
-
+#### Tabla configuration ####
+  La tabla configuration consta de los siguientes campos:
+     
+     
+| Nombre del Campo  |    Tipo     |Informacion  |
+| -------------     |:-----------:|:------------:|
+| id                |    int(11)  | Primary Key, Not Null, AI |
+| user_id           |    int(11)  |  Not Null, reference user (id)  |
+| dif_id            |    int(11)  |  Not Null      |
+| nave_id           |    int(11)  |  Not Null      |
+| luna_id           |    int(11)  |  Not Null          |
 
 
 
