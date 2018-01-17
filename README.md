@@ -149,9 +149,9 @@ Registrar Usuario:
    
    #### Cargar Configuracion #### 
    
-   Para cargar la configuracion del usuario emplearemos el servlet "cargarConfiguracion"
+   Para cargar la configuracion del usuario emplearemos el servlet "Cargar". 
    
-    mostrar los parametros y metodos con los que trabajamos
+     
    
   
    
